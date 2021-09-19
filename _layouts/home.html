@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="row g-5 mb-5">
+  <div class="col-8">
+    {{ content }}
+  </div>
+  <div class="col-4">
+    <img src="{{ site.github.url }}/assets/img/vdegeler.jpg" alt="Home" width="100%">
+  </div>
+</div>
+
+<!-- {% include publications.html %} !-->
+{% include news.html %}
+
+<!-- 
+<div class="row g-5 mb-5">
+  <div class="col-md-12">
+    <h4 class="fw-bold border-bottom pb-3 mb-5">Updates</h4>
+    {% for post in site.posts %}
+      <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
+    {% endfor %}
+  </div>
+</div>
+!-->

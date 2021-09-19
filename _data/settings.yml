@@ -1,0 +1,23 @@
+menu:
+- {name: 'Research Projects', url: '/research'}
+- {name: 'Teaching', url: '/teaching'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'Contact', url: '/contact'}
+
+# people:
+# - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+# - {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+# - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+
+# courses:
+# - {name: 'Vector Calculus', url: 'vector-calculus'}
+# - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+# - {name: 'Stellar Structures', url: 'stellar-structures'}
+
+social:
+- {icon: 'twitter', link: 'https://twitter.com/vdegeler'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/vdegeler'}
+#- {icon: 'github', link: 'https://github.com/'}
+
+contacts:
+- {name: 'Viktoriya Degeler', title: 'Assistant Professor', department: 'Faculty of Science and Engineering', institution: 'University of Groningen', institution_address: 'Nijenborgh 9, 9747 AG Groningen', phone: '+31 50 36 33939', email: 'v.degeler@rug.nl', office: '594', image: ''}

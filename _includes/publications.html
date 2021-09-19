@@ -1,0 +1,24 @@
+<div class="row g-5 mb-5">
+  <div>
+    <h4 class="fw-bold border-bottom pb-3 mb-5">Publications</h4>
+    <ul>
+    {% if page.title == "Home" %}
+      {% for item in site.data.publications.featured %}
+        {% if item.url %}
+          <li><p><a href="{{ item.url }}">{{ item.name }}</a></p></li>
+        {% else %}
+          <p>{{ item.name }}</p>
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      {% for item in site.data.publications.index %}
+        {% if item.url %}
+          <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+        {% else %}
+          <li>{{ item.name }}</li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    </ul>
+  </div>
+</div>

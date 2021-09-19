@@ -1,0 +1,8 @@
+<div class="row g-5 mb-5">
+  <div>
+    <h4 class="fw-bold border-bottom pb-3 mb-5">News</h4>
+      {% for item in site.data.news %}
+          <p><strong>[{{ item.date }}]</strong> {{ item.text }}</p>
+      {% endfor %}
+  </div>
+</div>
