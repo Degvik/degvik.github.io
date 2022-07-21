@@ -20,4 +20,4 @@ social:
 #- {icon: 'github', link: 'https://github.com/'}
 
 contacts:
-- {name: 'Viktoriya Degeler', title: 'Assistant Professor', department: 'Faculty of Science and Engineering', institution: 'University of Groningen', institution_address: 'Nijenborgh 9, 9747 AG Groningen', phone: '+31 50 36 33939', email: 'v.degeler@rug.nl', office: '594', image: ''}
+- {name: 'Viktoriya Degeler', title: 'Assistant Professor', department: 'Faculty of Science, Informatics Institute', institution: 'University of Amsterdam', institution_address: 'Science Park 904, 1098 XH Amsterdam', email: 'v.o.degeler@uva.nl', office: 'L4.12', image: ''}

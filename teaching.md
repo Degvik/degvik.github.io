@@ -6,8 +6,8 @@ permalink: /teaching/
 
 <h4 class="fw-bold border-bottom pb-3 mb-5">Courses</h4>
 
-- 2021 — ongoing — [Intelligent Agents and Automated Reasoning](https://www.rug.nl/ocasys/fwn/vak/show?code=WBCS041-05)
-- 2019 — ongoing — [Advanced Algorithms and Data Structures](https://www.rug.nl/ocasys/rug//vak/show?code=WBCS009-05)
+- 2021—2022 — [Intelligent Agents and Automated Reasoning](https://www.rug.nl/ocasys/fwn/vak/show?code=WBCS041-05)
+- 2019—2022 — [Advanced Algorithms and Data Structures](https://www.rug.nl/ocasys/rug//vak/show?code=WBCS009-05)
 - 2020 — [Object-Oriented Programming](https://www.rug.nl/ocasys/fwn/vak/show?code=WBCS028-05)
 
 <br />
@@ -32,6 +32,7 @@ The current water infrastructure in the northern part of the Netherlands generat
 
 ##### **PhD**
 
+- C.H. Truong (ongoing), "Deep Learning Models for Water Network Monitoring"
 - A. Tello (ongoing), “Towards Cognitive Digital Twins: Knowledge Graphs and Associative Learning for high-level activities recognition in Smart Environments”
 - M. Hadadian (ongoing) “Microservices for evolutionary changes in Data Analysis”
 - M. Lotfian Delouee (ongoing) “Event-Based Systems Meeting User Requirements in the Internet of Things”
@@ -44,7 +45,12 @@ The current water infrastructure in the northern part of the Netherlands generat
 
 ##### **Bachelor Thesis**
 
-- J. M. Hartsuiker (2021), "Automating University Exam Timetabling using Minizinc"
+- M. Assaf (2022), “Automated Planning of Data Processing Pipelines”
+- H. Quaicoe (2022), “Gaining Insights from EV Charging Reviews Using Natural Language Processing”
+- H. Wang (2022), “Analysis and Predictive Modelling of Network-wide EV Charging Patterns”
+- D. Rigoni (2022), “Digital Twins for Scientific Experiments”
+- D.J. Pot (2022), “Analysing Redundant Exploration of Parallel Search Algorithms”
+- J.M. Hartsuiker (2021), "Automating University Exam Timetabling using Minizinc"
 - M.H. Ramchand (2021), "An Overview of Microservice Architectures and their Key Drivers"
 - J. Plantinga (ongoing), "Dynamic Cost Allocation in Human-Assisted Energy Saving Systems"
 - F. Prins (2020), "Energy Consumption Patterns Profiling and Similarity Inference"

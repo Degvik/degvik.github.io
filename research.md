@@ -6,6 +6,14 @@ permalink: /research/
 
 <h4 class="fw-bold border-bottom pb-3 mb-5">Current Research Projects</h4>
 
+##### **DiTEC: Digital Twin for Evolutionary Changes in water networks, NWO**
+
+DiTEC proposes an evolutionary approach to real-time monitoring of water networks that detects inconsistency between measured sensor data and the expected situation, and performs real-time model update without needing additional calibration. Deep learning will be applied to create a data-driven simulation of the system. In case of leaks, valve degradation or sensor faults, the model is adapted to the degraded network until the maintenance takes place, which can take a long time. We will analyse the effect on data readings of different malfunctions, and construct a mitigating mechanism that allows to continue using the data, albeit in a limited capacity.
+
+<br/>
+
+<h4 class="fw-bold border-bottom pb-3 mb-5">Past Research Projects</h4>
+
 ##### **Evolutionary Changes in Data Analysis (ECIDA), NWO**
 
 In the past years, the collection of data has increased significantly. Large scale data analysis requires a distributed server cluster where the data is divided among the available machines such that it can be processed in parallel, speeding up the analysis substantially.
@@ -22,10 +30,6 @@ In the Industrial transformation, there are frontrunners, followers and laggards
 
 Next to teaching new generations of students, professional education of technical workers and teachers is crucial because most of the current workforce has not received formal education in these digital technologies.
 This project will deliver state-of-the-art AI education using practical industry-relevant use cases to professionals and students in four countries, in co-operation with private companies.
-
-<br/>
-
-<h4 class="fw-bold border-bottom pb-3 mb-5">Past Research Projects</h4>
 
 ##### **My Travel Companion (My-TRAC), H2020** 
 

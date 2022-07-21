@@ -5,7 +5,6 @@
 
 index:
 
-
 - {name: 'Al-Saudi K, Degeler V, Medema M. Energy Consumption Patterns and Load Forecasting with Profiled CNN-LSTM Networks. Processes. 2021; 9(11):1870. <a href="https://doi.org/10.3390/pr9111870">https://doi.org/10.3390/pr9111870</a> <a href="http://vdegeler.com/files/21energyprofiling.pdf">[pdf]</a>'}
 - {name: 'Tello, A. & Degeler, V. (2021) Digital Twins: An enabler for digital transformation. Chapter in “The Digital Transformation handbook”, eds. T.Broekhuizen, T.Bijmolt, B.Baalmans, N.Fabian. Available: <a href="https://www.rug.nl/gdbc/blog/digital-twins">rug.nl/gdbc/blog/digital-twins</a>'}
 - {name: 'Degeler, V., Heydenrijk-Ottens, L., Luo, D., van Oort, N., & van Lint, H. (2020). Unsupervised approach towards analysing the public transport bunching swings formation phenomenon. Public Transport, 1-23. Available: <a href="https://doi.org/10.1007/s12469-020-00251-z">doi.org/10.1007/s12469-020-00251-z</a>'}
