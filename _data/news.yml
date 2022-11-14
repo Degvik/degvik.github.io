@@ -1,7 +1,7 @@
 - {date: '1.11.22',
    text:
     'Here are our two recent publications to check out:
-    <br>
+    <br><br>
     R. Riesebos, V. Degeler and A. Tello, "Smartphone-Based Real-Time Indoor Positioning Using BLE Beacons," 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE), 2022, pp. 1281-1288, <a href="https://doi.org/10.1109/CASE49997.2022.9926639">doi: 10.1109/CASE49997.2022.9926639</a> <a href="http://vdegeler.com/files/22indoorloc.pdf">[pdf]</a>
     <br>
     Lotfian Delouee, M., Koldehofe, B., & Degeler, V. (Accepted/In press). Towards adaptive quality-aware Complex Event Processing in the Internet of Things. In The 18th International Conference on Mobility, Sensing and Networking (MSN 2022) IEEE. <a href="http://vdegeler.com/files/22msn.pdf">[pdf]</a>
