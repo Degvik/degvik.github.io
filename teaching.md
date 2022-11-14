@@ -6,6 +6,8 @@ permalink: /teaching/
 
 <h4 class="fw-bold border-bottom pb-3 mb-5">Courses</h4>
 
+- 2022—2023 — [Knowledge and Data](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-vak/vak/99012)
+
 - 2021—2022 — [Intelligent Agents and Automated Reasoning](https://www.rug.nl/ocasys/fwn/vak/show?code=WBCS041-05)
 - 2019—2022 — [Advanced Algorithms and Data Structures](https://www.rug.nl/ocasys/rug//vak/show?code=WBCS009-05)
 - 2020 — [Object-Oriented Programming](https://www.rug.nl/ocasys/fwn/vak/show?code=WBCS028-05)
@@ -14,21 +16,26 @@ permalink: /teaching/
 
 <h4 class="fw-bold border-bottom pb-3 mb-5">Available individual student projects</h4>
 
-##### **Smart Buildings and Digital Twins (BSc/Int/MSc)** 
+##### **Recreating actual conditions of a water network with machine learning** 
 
-The Internet of Things (IoT) is a concept in which a system of connected devices, or things, are able to communicate to each other without the necessity of human involvement. While this infrastructure is currently mainly used for collecting data and using these data as is, one can also imagine a world in which the combination of multiple devices can be used for the creation of so-called digital twins: digital representations of real world objects (e.g., buildings). With these twins, one would essentially ask targeted questions to the twin regarding the state of its physical counterpart, aggregated from the different sensors, instead of inspecting the raw sensor values. This project will investigate the use of digital twins, algorithms to create digital twins, and working on applications that deal with sensor data.
+Some of the current water distribution infrastructure in the Netherlands is covered with a decent number of sensors to measure the real-time state of the network. Most water network companies use physics-based water network simulations to predict the water network conditions. In order to be accurate, these simulations require careful parameter tuning to ensure conditions that correspond to the real world. The student's task in this master's project would be to use supervised machine learning methods to construct a model that predicts the parameters of the physical simulation system, based on the specific real-time sensor values.
 
-##### **Make a difference in Energy Transition with Machine Learning (company internship)** 
+##### **Pattern extraction and profiling of historical water network demand patterns**
 
-eWEning star is a “fresh from the oven” Start-Up, which is currently developing a discovery tool that serves stakeholders in the renewable energy sector with relevant scientific information regarding renewable energy. Currently people in this sector use key-word based search queries in order to find scientific papers and reports, but with eWEning star’s concept, these papers are smartly categorized, saving users a lot of time and nerves. By making the search process more efficient we can make the energy transition towards renewables faster! Currently we have around 900 documents that are manually categorized in three different ways: (i) perspective, (ii) position in value chain, and (iii) geographical location. Combined, we have created 15 categories. Depending on the length of your internship, it is possible to work on these all, or choose one out of the three options. While this manual approach is feasible for a small number of papers, it does not scale well. Our aim is to apply Machine Learning to improve this process. We expect that machine learning can provide us with a fast solution for categorizing already published papers according to eWEning star concept. You are given the freedom to design, develop and test a process which leads to the automated categorization. You have a background in Data Science and/or computer science, and you have natural curiosity for solving issues. You aren’t afraid to ask questions if you seem to “hit the wall”, but are capable of working independently. Some entrepreneurial mentality is a benefit as eWEning star is a Start-Up. Good communication skills are needed towards non-technical founder.
+Some of the current water distribution infrastructure in the Netherlands is covered with a decent number of sensors to measure the real-time state of the network. Historical dataset of water network conditions can provide us with many insights into how water distribution networks are being used, their supply/demand patterns, seasonal variations, etc. The goal of this project is to use unsupervised methods to create an algorithm for profiling and pattern extraction from historical sensor data of the network.
+The dataset contains real data, collected from the Dutch water distribution network over several recent years.
 
-##### **Data science in water management (BSc/Int/MSc)**
+##### **Analysing charging demand patterns of electric vehicles.**
 
-The current water infrastructure in the northern part of the Netherlands generates a large amount of data. In this project, the student is asked to work on one (or more) data science projects related to water management. This includes, but is not limited to: leakage detection, usage prediction, anomaly detection, missing data reparation, GIS analysis, and many more. Findings from this research might find their way back into the production systems of the water management company we work with.
+Growing network of charging stations for electric vehicles in the Netherlands produces considerable datasets that allow us to analyse charging patterns of the population. The student's task in this master's project would be to analyse the dataset of charging sessions in the Netherlands, reconstruct charging demand patterns, and use either supervised methods for changing demand predictions or unsupervised methods for profiling of different usage types. The real charging data is provided by Shell's EV charging network, and the project will be done in collaboration with Shell's data scientists.
+
+##### **Rule learning from smart home activity data**
+
+Systems such as smart homes usually depend heavily on the existence of sufficient logical rules that describe the expected system's behavior. These rules are largely designed manually (e.g. IFTTT rules), but this requires considerable effort and prevents further mass acceptance of such systems. In this project, we would like to investigate and apply rule learning algorithms, such as frequent itemsets, to extract behavior patterns in a form of logical rules from an activity dataset with raw sensor readings.
 
 <br />
 
-<h4 class="fw-bold border-bottom pb-3 mb-5">Individual Supervision</h4>
+<!-- <h4 class="fw-bold border-bottom pb-3 mb-5">Individual Supervision</h4>
 
 ##### **PhD**
 
@@ -60,3 +67,4 @@ The current water infrastructure in the northern part of the Netherlands generat
 - S. Boranbayeva (2020), "Human-assisted Smart Environments"
 - T. Titherington (2020), "Mobility traces analysis: Studying mobility patterns, allowing insight into the operation of a smart city."
 - L. de Boer (2012), “Smart office user-defined rules control.”
+ -->
