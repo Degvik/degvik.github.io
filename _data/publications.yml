@@ -5,6 +5,7 @@
 
 index:
 
+- {name: 'M. Delouee, B. Koldehofe, V. Degeler, Towards Pattern-Level Privacy Protection in Distributed Complex Event Processing, 17th ACM International Conference on Distributed and Event-based Systems, Posters and Demos Track (DEBS Posters and Demos), 2023, poster. Accepted'} #<a href="http://vdegeler.com/files/23debs_privacy_poster">[pdf]</a>
 - {name: 'M. Hadadian Nejad Yousefi, V. Degeler and A. Lazovik, Bridging the Gap: Empowering Machine Learning Development with Service-Oriented Computing Principles. 17th Symposium and Summer School On Service-Oriented Computing (SummerSoc), 2023, Accepted.'} #  <a href="http://vdegeler.com/files/23SummerSoc.pdf">[pdf]</a>
 - {name: 'M. Delouee, B. Koldehofe, V. Degeler, AQuA-CEP: Adaptive Quality-Aware Complex Event Processing in the Internet of Things. ACM International Conference on Distributed and Event‐Based Systems (DEBS), 2023, Accepted/In press.'} #<a href="http://vdegeler.com/files/23debs-aquacep">[pdf]</a>
 - {name: 'R. Riesebos, V. Degeler and A. Tello, "Smartphone-Based Real-Time Indoor Positioning Using BLE Beacons," 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE), 2022, pp. 1281-1288, <a href="https://doi.org/10.1109/CASE49997.2022.9926639">doi: 10.1109/CASE49997.2022.9926639</a> <a href="http://vdegeler.com/files/22indoorloc.pdf">[pdf]</a>'}
