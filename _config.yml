@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Viktoriya Degeler
-email: vdegeler@rug.nl
+email: v.o.degeler@uva.nl
 description: "Computer scientist specializing in smart systems creation"
 baseurl: ""
 url: ""
