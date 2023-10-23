@@ -26,7 +26,7 @@ url: ""
 #baseurl: "/glowing-couscous" # the subpath of your site, e.g. /blog
 #url: "https://shlema.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vdegeler
-#github_username:  
+github_username:  Degvik
 
 # Build settings
 # theme: academic-jekyll-theme
