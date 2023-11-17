@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-I am Viktoriya Degeler, an Assistant Professor at the Informatics Institute of the University of Amsterdam, the Netherlands. I am a member of the Intelligent Data Engineering Lab, Complex-Cyber Infrastructures group and the Data Science Centre. My research is focused on reasoning and decision making systems for smart environments, activity recognition, digital twins, pervasive systems and context modeling and representation, with particular interest in sustainable applications such as energy and water management. 
+I am Victoria Degeler, an Assistant Professor at the Informatics Institute of the University of Amsterdam, the Netherlands. I am a member of the Intelligent Data Engineering Lab, Complex-Cyber Infrastructures group and the Data Science Centre. My research is focused on reasoning and decision making systems for smart environments, activity recognition, digital twins, pervasive systems and context modeling and representation, with particular interest in sustainable applications such as energy and water management. 
 
 My career, always at the edge of both academia and industry, included academic positions at the National University of Ireland in Galway, Delft University of Technology and the University of Groningen; a research engineer position at Airbus, Newport (UK); and the Lead AI engineer position in Cupenya, Amsterdam, where I was leading the AI department. I am active in promoting AI approaches in the industry, participate in Training in AI for SMEs program, and, earlier, acted as an AI technical mentor for startups of the AI Accelerator program at Rockstart Startup Accelerator, Amsterdam. 
 
