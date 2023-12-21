@@ -6,7 +6,7 @@
 index:
 
 
-- {name: 'Karabulut, E., Pileggi, S. F., Groth, P., & Degeler, V. (2023). Ontologies in Digital Twins: A Systematic Literature Review. arXiv preprint <a href="https://arxiv.org/abs/2308.15168">arXiv:2308.15168</a>.'}
+- {name: 'Karabulut, E., Pileggi, S. F., Groth, P., & Degeler, V. (2024). Ontologies in Digital Twins: A Systematic Literature Review. Future Generation Computer Systems, vol. 153, pp. 442-456, April 2024. <a href="https://doi.org/10.1016/j.future.2023.12.013">doi:10.1016/j.future.2023.12.013</a>.'}
 - {name: 'Tello, A., Degeler, V., Lazovik, A. (2023) Too Good To Be True: performance overestimation in (re)current practices for Human Activity Recognition. arXiv preprints. <a href="https://arxiv.org/abs/2310.11950">arXiv.2310.11950</a>'}
 - {name: 'Karabulut, E., Degeler, V., Groth, P. (2023). Semantic Association Rule Learning from Time Series Data and Knowledge Graphs. 2nd International Workshop on Semantic Industrial Information Modelling, 7th November 2023, Athens, Greece, co-located with 22nd International Semantic Web Conference (ISWC 2023). arXiv preprint <a href="https://arxiv.org/abs/2310.07348">arXiv:2310.07348</a>.'}
 - {name: 'M. Delouee, B. Koldehofe, V. Degeler, Towards Pattern-Level Privacy Protection in Distributed Complex Event Processing, 17th ACM International Conference on Distributed and Event-based Systems, Posters and Demos Track (DEBS Posters and Demos), 2023, poster. <a href="http://vdegeler.com/files/23debs_privacy_poster">[pdf]</a>'} #  

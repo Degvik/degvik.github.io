@@ -1,3 +1,27 @@
+
+- {date: '21.12.23',
+   text:
+    'Our systematic review of the usage of ontologies in digital twins is now available online in Future Generation Computer Systems. Check it out: https://doi.org/10.1016/j.future.2023.12.013
+    '
+}
+
+- {date: '30.11.23',
+   text:
+    'Our consortium of 7 research and industrial partners, has been awarded a grant for the project "Intelligent Wastewater Treatment: Distributed Digital Twin for Clean Water (DDTclean)". One PhD position for the Informatics Institute is funded by this project. Read the news on <a href="https://www.nwo.nl/en/news/four-sino-dutch-research-projects-on-green-water-processes-awarded">the NWO's website</a>.
+    '
+}
+
+- {date: '15.10.22',
+   text:
+    'Selected recent publications:
+    <br><br>
+    Yousefi, M.H.N., Degeler, V., Lazovik, A. (2023). Empowering Machine Learning Development with Service-Oriented Computing Principles. In: Service-Oriented Computing. SummerSOC 2023. Communications in Computer and Information Science, vol 1847. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-45728-9_2">doi:10.1007/978-3-031-45728-9_2</a> 
+    <br>
+    M. Lotfian Delouee, B. Koldehofe, and V. Degeler. 2023. AQuA-CEP: Adaptive Quality-Aware Complex Event Processing in the Internet of Things. In Proceedings of the 17th ACM International Conference on Distributed and Event-based Systems (DEBS). Association for Computing Machinery, New York, NY, USA, 13–24. <a href="https://doi.org/10.1145/3583678.3596884">doi: 10.1145/3583678.3596884</a>
+    '
+}
+
+
 - {date: '1.11.22',
    text:
     'Here are our two recent publications to check out:
@@ -14,27 +38,27 @@
     '
 }
 
-- {date: '7.04.22', 
-    text:  
-      'On April 6&7, ICT.OPEN2022 took place at RAI Amsterdam. I participated as a poster jury member, and was impressed by the number of high-quality posters presented. Congratulations to the three finalists, who got a Best Poster Award prize and a small monetary contribution!
-      <br>
-      <a href="https://www.ictopen.nl/postermeet-the-demo-prizes/">ICT.OPEN Demo & Poster sessions</a>'
-  }
+# - {date: '7.04.22', 
+#     text:  
+#       'On April 6&7, ICT.OPEN2022 took place at RAI Amsterdam. I participated as a poster jury member, and was impressed by the number of high-quality posters presented. Congratulations to the three finalists, who got a Best Poster Award prize and a small monetary contribution!
+#       <br>
+#       <a href="https://www.ictopen.nl/postermeet-the-demo-prizes/">ICT.OPEN Demo & Poster sessions</a>'
+#   }
 
-- {date: '15.12.21', text: 'Two new PhD position vacancies related to the recently funded DiTEC project are opened in our group. 
-<br><br>
-<a href="https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008UJP">PhD position Digital Twin and reasoning system for water networks</a><br>
-<a href="https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008UKP">PhD position Deep learning models for water network monitoring</a>'}
+# - {date: '15.12.21', text: 'Two new PhD position vacancies related to the recently funded DiTEC project are opened in our group. 
+# <br><br>
+# <a href="https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008UJP">PhD position Digital Twin and reasoning system for water networks</a><br>
+# <a href="https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008UKP">PhD position Deep learning models for water network monitoring</a>'}
 
-- {date: '21.10.21', text: 'I am very honored to announce that our NWO project "DiTEC: Digital Twin for Evolutionary Changes in water networks" has been funded! I am the main applicant and coordinator of this €800,000 project, which has four partners in total: University of Groningen, Hanze University of Applied Sciences, Vitens, and Researchable, and will last four years. Our group will soon open two new PhD positions related to this project - stay tuned!<br><br>
+# - {date: '21.10.21', text: 'I am very honored to announce that our NWO project "DiTEC: Digital Twin for Evolutionary Changes in water networks" has been funded! I am the main applicant and coordinator of this €800,000 project, which has four partners in total: University of Groningen, Hanze University of Applied Sciences, Vitens, and Researchable, and will last four years. Our group will soon open two new PhD positions related to this project - stay tuned!<br><br>
 
-<a href="https://www.nwo.nl/en/news/grants-open-technology-programme-and-smart-industry-2020#smart-industry-2020">Read NWO&apos;s announcement</a> <br><br>
+# <a href="https://www.nwo.nl/en/news/grants-open-technology-programme-and-smart-industry-2020#smart-industry-2020">Read NWO&apos;s announcement</a> <br><br>
 
-DiTEC proposes an evolutionary approach to real-time monitoring of water networks that detects inconsistency between measured sensor data and the expected situation, and performs real-time model update without needing additional calibration. Deep learning will be applied to create a data-driven simulation of the system. In case of leaks, valve degradation or sensor faults, the model is adapted to the degraded network until the maintenance takes place, which can take a long time. We will analyse the effect on data readings of different malfunctions, and construct a mitigating mechanism that allows to continue using the data, albeit in a limited capacity.'}
-- {date: '20.10.21', text: 'Our new journal paper is published and is avalable open source:<br><br>
-  Al-Saudi K, Degeler V, Medema M. Energy Consumption Patterns and Load Forecasting with Profiled CNN-LSTM Networks. Processes. 2021; 9(11):1870. <a href="https://doi.org/10.3390/pr9111870">https://doi.org/10.3390/pr9111870</a><br><br>
-<b>Abstract:</b>
-By virtue of the steady societal shift to the use of smart technologies built on the increasingly popular smart grid framework, we have noticed an increase in the need to analyze household electricity consumption at the individual level. In order to work efficiently, these technologies rely on load forecasting to optimize operations that are related to energy consumption (such as household appliance scheduling). This paper proposes a novel load forecasting method that utilizes a clustering step prior to the forecasting step to group together days that exhibit similar energy consumption patterns. Following that, we attempt to classify new days into pre-generated clusters by making use of the available context information (day of the week, month, predicted weather). Finally, using available historical data (with regard to energy consumption) alongside meteorological and temporal variables, we train a CNN-LSTM model on a per-cluster basis that specializes in forecasting based on the energy profiles present within each cluster. This method leads to improvements in forecasting performance (upwards of a 10% increase in mean absolute percentage error scores) and provides us with the added benefit of being able to easily highlight and extract information that allows us to identify which external variables have an effect on the energy consumption of any individual household.
-  '}
-- {date: '17.09.21', text: 'Our take on the emergence of Digital Twins is now published and is freely available to read as a book chapter! A supporting short <a href="https://www.youtube.com/watch?v=iMuFwfv9hjA">explainer video</a> is a good summary of what you can expect from the article. Read the full article here: <a href="https://www.rug.nl/gdbc/blog/digital-twins">rug.nl/gdbc/blog/digital-twins</a>'}
-- {date: '29.06.21', text: 'Proud to be a jury member in the GDBC Digital Thesis Award competition for the best Master Thesis related to Digital Business. On June 29 the finalists presented their thesis to the broad audience and received checks for 2000, 1000 and 500 euros. You can watch the whole live stream here: <a href="https://www.youtube.com/watch?v=aW1fG6TjPDA">youtube.com/watch?v=aW1fG6TjPDA</a>'}
+# DiTEC proposes an evolutionary approach to real-time monitoring of water networks that detects inconsistency between measured sensor data and the expected situation, and performs real-time model update without needing additional calibration. Deep learning will be applied to create a data-driven simulation of the system. In case of leaks, valve degradation or sensor faults, the model is adapted to the degraded network until the maintenance takes place, which can take a long time. We will analyse the effect on data readings of different malfunctions, and construct a mitigating mechanism that allows to continue using the data, albeit in a limited capacity.'}
+# - {date: '20.10.21', text: 'Our new journal paper is published and is avalable open source:<br><br>
+#   Al-Saudi K, Degeler V, Medema M. Energy Consumption Patterns and Load Forecasting with Profiled CNN-LSTM Networks. Processes. 2021; 9(11):1870. <a href="https://doi.org/10.3390/pr9111870">https://doi.org/10.3390/pr9111870</a><br><br>
+# <b>Abstract:</b>
+# By virtue of the steady societal shift to the use of smart technologies built on the increasingly popular smart grid framework, we have noticed an increase in the need to analyze household electricity consumption at the individual level. In order to work efficiently, these technologies rely on load forecasting to optimize operations that are related to energy consumption (such as household appliance scheduling). This paper proposes a novel load forecasting method that utilizes a clustering step prior to the forecasting step to group together days that exhibit similar energy consumption patterns. Following that, we attempt to classify new days into pre-generated clusters by making use of the available context information (day of the week, month, predicted weather). Finally, using available historical data (with regard to energy consumption) alongside meteorological and temporal variables, we train a CNN-LSTM model on a per-cluster basis that specializes in forecasting based on the energy profiles present within each cluster. This method leads to improvements in forecasting performance (upwards of a 10% increase in mean absolute percentage error scores) and provides us with the added benefit of being able to easily highlight and extract information that allows us to identify which external variables have an effect on the energy consumption of any individual household.
+#   '}
+# - {date: '17.09.21', text: 'Our take on the emergence of Digital Twins is now published and is freely available to read as a book chapter! A supporting short <a href="https://www.youtube.com/watch?v=iMuFwfv9hjA">explainer video</a> is a good summary of what you can expect from the article. Read the full article here: <a href="https://www.rug.nl/gdbc/blog/digital-twins">rug.nl/gdbc/blog/digital-twins</a>'}
+# - {date: '29.06.21', text: 'Proud to be a jury member in the GDBC Digital Thesis Award competition for the best Master Thesis related to Digital Business. On June 29 the finalists presented their thesis to the broad audience and received checks for 2000, 1000 and 500 euros. You can watch the whole live stream here: <a href="https://www.youtube.com/watch?v=aW1fG6TjPDA">youtube.com/watch?v=aW1fG6TjPDA</a>'}
