@@ -10,6 +10,10 @@ permalink: /research/
 
 DiTEC proposes an evolutionary approach to real-time monitoring of water networks that detects inconsistency between measured sensor data and the expected situation, and performs real-time model update without needing additional calibration. Deep learning will be applied to create a data-driven simulation of the system. In case of leaks, valve degradation or sensor faults, the model is adapted to the degraded network until the maintenance takes place, which can take a long time. We will analyse the effect on data readings of different malfunctions, and construct a mitigating mechanism that allows to continue using the data, albeit in a limited capacity.
 
+##### **DDTClean: Intelligent Wastewater Treatment: Distributed Digital Twin for Clean Water NWO**
+
+DDTclean focuses on the development of future-facing wastewater treatment technologies. These novel technologies can provide intelligent wastewater governance, including collection and treatment, with the help of electrochemical-membrane technologies and scalable Artificial Intelligence enhanced distributed Digital Twin framework. This project addresses the existing dilemma of low treatment efficiency of decentralised wastewater, while facilitating the communication and coordination of multiple stakeholders, aiming to improve the environmental quality, especially in remote areas, and to contribute to system-wide optimal operations.
+
 <br/>
 
 <h4 class="fw-bold border-bottom pb-3 mb-5">Past Research Projects</h4>
@@ -17,7 +21,7 @@ DiTEC proposes an evolutionary approach to real-time monitoring of water network
 ##### **Evolutionary Changes in Data Analysis (ECIDA), NWO**
 
 In the past years, the collection of data has increased significantly. Large scale data analysis requires a distributed server cluster where the data is divided among the available machines such that it can be processed in parallel, speeding up the analysis substantially.
-
+,
 Distributed data processing platforms such as Spark have become a de-facto standard in the world of large-scale data processing. The data processing pipelines for such platforms are composed during design time and then submitted to the central “master” component who then distributes the code among several worker nodes. However, in many situations, the application is not static and evolve over time: the developers add new processing steps, data scientists adjust parameters of their algorithm and quality assurance discovers new bugs. Currently, an update of the pipeline looks as follows: the developers patch their code, re-submit the updated version, and finally restart the entire pipeline.
 
 However, restarting the processing pipeline safely is difficult: the intermediate state is lost and needs to be re-computed; some data needs to be reprocessed and, finally, the cost of restarting may not be trivial - especially for real-time streaming components that require 24x7 availability. In this project we investigate the possibility to support evolving data-intensive applications without the need for restarting them when the requirements change (e.g., new data sources or algorithms are available).

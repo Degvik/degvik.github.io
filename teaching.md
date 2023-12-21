@@ -6,7 +6,8 @@ permalink: /teaching/
 
 <h4 class="fw-bold border-bottom pb-3 mb-5">Courses</h4>
 
-- 2022—2023 — [Knowledge and Data](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-vak/vak/99012)
+- 2023—2024 — [Information Organization](https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/109946)
+- 2022—2024 — [Knowledge and Data](https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/110045)
 
 - 2021—2022 — [Intelligent Agents and Automated Reasoning](https://www.rug.nl/ocasys/fwn/vak/show?code=WBCS041-05)
 - 2019—2022 — [Advanced Algorithms and Data Structures](https://www.rug.nl/ocasys/rug//vak/show?code=WBCS009-05)
@@ -14,9 +15,11 @@ permalink: /teaching/
 
 <br />
 
-<h4 class="fw-bold border-bottom pb-3 mb-5">Available individual student projects</h4>
+<!--<h4 class="fw-bold border-bottom pb-3 mb-5">Individual student projects</h4>
 
-##### **Recreating actual conditions of a water network with machine learning** 
+I always have Master's and Bachelor's student project available in the field of smart 
+
+ ##### **Recreating actual conditions of a water network with machine learning** 
 
 Some of the current water distribution infrastructure in the Netherlands is covered with a decent number of sensors to measure the real-time state of the network. Most water network companies use physics-based water network simulations to predict the water network conditions. In order to be accurate, these simulations require careful parameter tuning to ensure conditions that correspond to the real world. The student's task in this master's project would be to use supervised machine learning methods to construct a model that predicts the parameters of the physical simulation system, based on the specific real-time sensor values.
 
@@ -31,7 +34,7 @@ Growing network of charging stations for electric vehicles in the Netherlands pr
 
 ##### **Rule learning from smart home activity data**
 
-Systems such as smart homes usually depend heavily on the existence of sufficient logical rules that describe the expected system's behavior. These rules are largely designed manually (e.g. IFTTT rules), but this requires considerable effort and prevents further mass acceptance of such systems. In this project, we would like to investigate and apply rule learning algorithms, such as frequent itemsets, to extract behavior patterns in a form of logical rules from an activity dataset with raw sensor readings.
+Systems such as smart homes usually depend heavily on the existence of sufficient logical rules that describe the expected system's behavior. These rules are largely designed manually (e.g. IFTTT rules), but this requires considerable effort and prevents further mass acceptance of such systems. In this project, we would like to investigate and apply rule learning algorithms, such as frequent itemsets, to extract behavior patterns in a form of logical rules from an activity dataset with raw sensor readings. -->
 
 <br />
 

@@ -1,15 +1,14 @@
 
 - {date: '21.12.23',
    text:
-    'Our systematic review of the usage of ontologies in digital twins is now available online in Future Generation Computer Systems. Check it out: https://doi.org/10.1016/j.future.2023.12.013
+    'Our systematic review of the usage of ontologies in digital twins is now available online in Future Generation Computer Systems. Check it out: <a href="https://doi.org/10.1016/j.future.2023.12.013">doi:10.1016/j.future.2023.12.013</a>.
     '
 }
 
 - {date: '30.11.23',
    text:
-    'Our consortium of 7 research and industrial partners, has been awarded a grant for the project "Intelligent Wastewater Treatment: Distributed Digital Twin for Clean Water (DDTclean)". One PhD position for the Informatics Institute is funded by this project. Read the news on <a href="https://www.nwo.nl/en/news/four-sino-dutch-research-projects-on-green-water-processes-awarded">the NWO's website</a>.
-    '
-}
+    'Our consortium of 7 research and industrial partners, has been awarded a grant for the project "Intelligent Wastewater Treatment: Distributed Digital Twin for Clean Water (DDTclean)". One PhD position for the Informatics Institute is funded by this project. Read the news on <a href="https://www.nwo.nl/en/news/four-sino-dutch-research-projects-on-green-water-processes-awarded">the NWO''s website</a>.'
+  }
 
 - {date: '15.10.22',
    text:
