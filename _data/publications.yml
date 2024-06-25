@@ -6,6 +6,8 @@
 index:
 
 #2024
+- {name: 'A. Khalil, M. Lotfian Delouee, V. Degeler, T. Meuser, A.F. Anta, B. Koldehofe (2024) Driving Towards Efficiency: Adaptive Resource-aware Clustered Federated Learning in Vehicular Networks. In Proceedings of The 22nd Mediterranean Communication and Computer Networking Conference (MedComNet’24), June 11-13, Nice, France, Accepted/In press'}
+- {name: 'van Etten, T.; Degeler, V. and Luo, D. (2024). Large-Scale Forecasting of Electric Vehicle Charging Demand Using Global Time Series Modeling. In Proceedings of the 10th International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS); SciTePress, pages 40-51. doi: <a href="https://arxiv.org/abs/2311.10579">https://doi.org/10.5220/0012555400003702</a>'}
 - {name: 'H. Truong, A. Tello, A. Lazovik, V. Degeler (2024) Graph Neural Networks for Pressure Estimation in Water Distribution Systems, Water Resources Research, AGU, Accepted/In press, preprint: <a href="https://arxiv.org/abs/2311.10579">arXiv:2311.10579</a>'}
 - {name: 'A. Tello, H. Truong, A. Lazovik, V. Degeler (2024) Large-Scale Multipurpose Benchmark Datasets For Assessing Data-Driven Deep Learning Approaches For Water Distribution Networks. Engineering Proceedings. Accepted/In Press. preprint: <a href="https://arxiv.org/abs/2404.15386">arXiv:2404.15386</a>'}
 - {name: 'M. Hadadian Nejad Yousefi, V. Degeler, A. Lazovik (2024) "Self-Adaptive Service Selection for Machine Learning Continuous Delivery", IEEE International Conference on Web Services (ICWS), IEEE Services, Accepted/In Press.'}
