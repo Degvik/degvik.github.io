@@ -4,11 +4,12 @@ title: "Publications"
 ---
 ### 2025
 
+- H. Truong, A. Tello, A. Lazovik, V. Degeler (2025) DiTEC-WDN: A Large-Scale Dataset of Hydraulic Scenarios across Multiple Water Distribution Networks. pre-print. [doi: 10.48550/arXiv.2503.17167](https://doi.org/10.48550/arXiv.2503.17167)
 - Tello, A., Degeler, V., (2025) Contrasting Global and Local Representations for Human Activity Recognition using Graph Neural Networks. In the 40th ACM/SIGAPP Symposium On Applied Computing (SAC), Accepted/in press. [\[pdf\]](https://vdegeler.com/files/25GNN4HAR.pdf) 
 
 ### 2024
 
-- Karabulut, E., Groth, P. T., & Degeler, V. O. (2024) 3K: Knowledge-Enriched Digital Twin Framework. In the 14th International Conference on the Internet of Things (IoT 2024) workshops: International Workshop on Longevity in IoT Systems (LongevIoT), Accepted/in press. [\[pdf\]](https://vdegeler.com/files/24LongevIoT-3K.pdf)
+- Karabulut, E., Groth, P. T., & Degeler, V. O. (2024) 3K: Knowledge-Enriched Digital Twin Framework. In Proceedings of the 14th International Conference on the Internet of Things (IoT '24). Association for Computing Machinery, New York, NY, USA, 188–193., [doi: 10.1145/3703790.3703834](https://doi.org/10.1145/3703790.3703834). [\[pdf\]](https://vdegeler.com/files/24LongevIoT-3K.pdf)
 - Huang, Y., Karabulut, E., & Degeler, V. O. (2024) Large Language Model for Ontology Learning In Drinking Water Distribution Network Domain. In EKAW 2024 Workshops, Tutorials, Posters and Demos, 24th International Conference on Knowledge Engineering and Knowledge Management (EKAW 2024), November 26-28, 2024, Amsterdam, The Netherlands, Accepted/in press. [\[pdf\]](https://vdegeler.com/files/24LLM4WDN.pdf)
 - M. Lotfian Delouee, D.G. Pernes, V. Degeler, B. Koldehofe. (2024) Poster: Towards Federated LLM-Powered CEP Rule Generation and Refinement. In Proceedings of the 18th ACM International Conference on Distributed and Event-Based Systems (DEBS’24). Association for Computing Machinery, New York, NY, USA, 185–186. doi: [10.1145/3629104.3672429](https://doi.org/10.1145/3629104.3672429). [\[pdf\]](https://vdegeler.com/files/24debs-llm-cep.pdf)
 - V. Degeler, M. Hadadian, E. Karabulut, A. Lazovik, H. van het Loo, A. Tello, H. Truong (2024) DiTEC: Digital Twin for Evolutionary Changes in Water Distribution Networks. Leveraging Applications of Formal Methods, Verification and Validation. Application Areas. ISoLA 2024. Lecture Notes in Computer Science, vol 15223. Springer. doi: [10.1007/978-3-031-75390-9_5](https://doi.org/10.1007/978-3-031-75390-9_5); [\[pdf\]](https://vdegeler.com/files/24ditec.pdf)
