@@ -1,3 +1,15 @@
+- {date: '14.05.25',
+   text:
+    'Our position paper "<a href="https://doi.org/10.1109/MIC.2025.3566642">Rethinking Computing Systems in the Era of Climate Crisis: A Call for a Sustainable Computing Continuum</a>" is now avaiable in the IEEE Internet Computing journal. Check it out!'
+}
+
+
+- {date: '14.05.25',
+   text:
+    '"<a href="https://doi.org/10.1145/3672608.3707743">Contrasting Global and Local Representations for Human Activity Recognition using Graph Neural Networks</a>" is now published in the Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing (SAC).'
+}
+
+
 - {date: '03.06.24',
    text:
     'I am co-organizing <a href="https://distributeddigitaltwins.github.io/">the 1st Distributed Digital Twins (DiDiT) workshop</a>, which will happen on June 17th in Groningen. The full program is now available.'
