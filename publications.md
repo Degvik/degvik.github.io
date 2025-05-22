@@ -4,10 +4,10 @@ title: "Publications"
 ---
 ### 2025
 
-- E. Peltonen, S. Bayhan, D. Bermbach, S. Buschjager, V. Degeler, A. Y. Ding et al., "Rethinking Computing Systems in the Era of Climate Crisis: A Call for a Sustainable Computing Continuum," in IEEE Internet Computing. [\[pdf\]](https://vdegeler.com/files/25SustainableCall.pdf) [doi: 10.1109/MIC.2025.3566642](https://doi.org/10.1109/MIC.2025.3566642)
+- E. Peltonen, S. Bayhan, D. Bermbach, S. Buschjager, V. Degeler, A. Y. Ding et al., "Rethinking Computing Systems in the Era of Climate Crisis: A Call for a Sustainable Computing Continuum," in IEEE Internet Computing. [\[pdf\]](https://vdegeler.com/files/25SustainableCall.pdf) doi: [10.1109/MIC.2025.3566642](https://doi.org/10.1109/MIC.2025.3566642)
 - Karabulut, E., Groth, P. T., & Degeler, V. O. (2025) Neurosymbolic Association Rule Mining from Tabular Data. pre-print. [\[pdf\]](https://vdegeler.com/files/25NeSyARM.pdf). arXiv doi: [10.48550/arXiv.2504.19354](https://doi.org/10.48550/arXiv.2504.19354)
-- H. Truong, A. Tello, A. Lazovik, V. Degeler (2025) DiTEC-WDN: A Large-Scale Dataset of Hydraulic Scenarios across Multiple Water Distribution Networks. pre-print. [doi: 10.48550/arXiv.2503.17167](https://doi.org/10.48550/arXiv.2503.17167)
-- Tello, A., Degeler, V., (2025) Contrasting Global and Local Representations for Human Activity Recognition using Graph Neural Networks. In Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing (SAC '25). Association for Computing Machinery, New York, NY, USA, 630–637. [\[pdf\]](https://vdegeler.com/files/25GNN4HAR.pdf) [doi: 10.1145/3672608.3707743](https://doi.org/10.1145/3672608.3707743)
+- H. Truong, A. Tello, A. Lazovik, V. Degeler (2025) DiTEC-WDN: A Large-Scale Dataset of Hydraulic Scenarios across Multiple Water Distribution Networks. pre-print. doi: [10.48550/arXiv.2503.17167](https://doi.org/10.48550/arXiv.2503.17167)
+- Tello, A., Degeler, V., (2025) Contrasting Global and Local Representations for Human Activity Recognition using Graph Neural Networks. In Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing (SAC '25). Association for Computing Machinery, New York, NY, USA, 630–637. [\[pdf\]](https://vdegeler.com/files/25GNN4HAR.pdf) doi: [10.1145/3672608.3707743](https://doi.org/10.1145/3672608.3707743)
 
 ### 2024
 
