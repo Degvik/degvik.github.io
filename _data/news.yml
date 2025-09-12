@@ -1,3 +1,24 @@
+- {date: '12.09.25',
+   text:
+    'Starting October 1st Taguhi Mesropyan will join our group as a PhD student. Welcome!'
+}
+
+
+- {date: '01.09.25',
+   text:
+    'The new course Digital Twin Engineering starts today for MSc students in Computer Science!'
+}
+
+- {date: '25.06.25',
+   text:
+    'I am giving an invited talk on Graphs for State Recognition and Reasoning in Smart Environments as a part of the <a href="https://ellis-stuttgart.eu/news/2025/06/AI-Workshop/">ELLIS Stuttgart Distinguished Lecture Series</a>.'
+}
+
+- {date: '21.06.25',
+   text:
+    'I am giving a tutorial lecture on Engineering Digital Twins of Critical Infrastructures on <a href="https://summersoc.org/">SummerSOC 2025</a>.'
+}
+
 - {date: '14.05.25',
    text:
     'Our position paper "<a href="https://doi.org/10.1109/MIC.2025.3566642">Rethinking Computing Systems in the Era of Climate Crisis: A Call for a Sustainable Computing Continuum</a>" is now avaiable in the IEEE Internet Computing journal. Check it out!'

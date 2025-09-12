@@ -4,7 +4,14 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-<h4 class="fw-bold border-bottom pb-3 mb-5">Courses</h4>
+### Digital Twin Engineering (started in 2025)
+
+In this course, students become familiar with the concept of digital twins and learn and practice all aspects of engineering such a system. Students learn about the typical data sources for such a system, different approaches to model the environment and existing modelling techniques, ways to integrate physical constraints and behaviours into the virtual model, communication mechanisms and protocols, data flows, streaming and messaging, real-time data processing and analytics; they analyse the role of AI in digital twins, look into ways to validate the fidelity of a digital twin system with respect to its physical counterpart and discuss future trends and ethical aspects of digital twin technologies.
+
+From a practical perspective, the students develop their own digital twin of a sensor-rich environment. They investigate a specific use case, using publicly available sensor datasets, construct their own digital representation model of a physical environment, develop a communication mechanism to efficiently process incoming sensor readings, and demonstrate the ability of the digital twin to adapt to changes in the physical environment in real-time.
+
+
+### Previous Courses
 
 - 2023—2024 — [Information Organization](https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/109946)
 - 2022—2024 — [Knowledge and Data](https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/110045)
