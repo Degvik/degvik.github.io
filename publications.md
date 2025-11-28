@@ -2,9 +2,15 @@
 layout: publications
 title: "Publications"
 ---
+
+### 2026
+
+- I. El Ghabi, R. N. Alief, D. Dustegor, G. Henckens, A. Lazovik, V. Degeler, "GNN-Based State Estimation for Urban Wastewater Digital Twins", (2026) ACM Symposium on Applied Computing, Accepted/In Press
+
 ### 2025
 
-- Karabulut, E., Daza, D., Groth, P., and Degeler, V. "Discovering Association Rules in High-Dimensional Small Tabular Data", The 1st International Workshop on Advanced Neuro-Symbolic Applications (ANSyA) co-located with ECAI 2025. Accepted/In press. arxiv doi: [10.48550/arXiv.2509.20113](https://doi.org/10.48550/arXiv.2509.20113)
+- M. Lotfian Delouee, V. Degeler, P. Amthor, M. C. Schut, B. Koldehofe (2025) "Pattern-level Privacy Protection in Event-based Systems", SN Computer Science, Springer, Accepted/In Press. 
+- Karabulut, E., Daza, D., Groth, P., and Degeler, V. (2025) "Discovering Association Rules in High-Dimensional Small Tabular Data", The 1st International Workshop on Advanced Neuro-Symbolic Applications (ANSyA) co-located with ECAI 2025. Accepted/In press. arxiv doi: [10.48550/arXiv.2509.20113](https://doi.org/10.48550/arXiv.2509.20113)
 - Tello, A.; van het Loo, H.; Lazovik, A.; Degeler, V. (2025). Towards Graph Foundation Models for Water Distribution Networks. The University of Sheffield. the 21st Computing and Control in the Water Industry Conference (CCWI 2025). doi: [10.15131/shef.data.29921231.v1](https://doi.org/10.15131/shef.data.29921231.v1)
 - van den Barg J.A.A., Degeler V. (2025) Earth Science Digital Twins: A Systematic Literature Review. The 2nd International Conference on Engineering Digital Twins (EDTconf). Accepted/In Press. [\[pdf\]](https://vdegeler.com/files/25ESDT.pdf)
 - Karabulut, E., Groth, P., and Degeler, V. (2025) Pyaerial: Scalable Association Rule Mining from Tabular Data. SoftwareX. Volume 31, 102341. doi: [10.1016/j.softx.2025.102341](http://dx.doi.org/10.1016/j.softx.2025.102341)

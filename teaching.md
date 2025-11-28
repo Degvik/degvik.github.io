@@ -10,15 +10,21 @@ In this course, students become familiar with the concept of digital twins and l
 
 From a practical perspective, the students develop their own digital twin of a sensor-rich environment. They investigate a specific use case, using publicly available sensor datasets, construct their own digital representation model of a physical environment, develop a communication mechanism to efficiently process incoming sensor readings, and demonstrate the ability of the digital twin to adapt to changes in the physical environment in real-time.
 
+[Digital Twin Engineering Study Guide](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/130422)
 
 ### Previous Courses
 
 - 2023—2024 — [Information Organization](https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/109946)
 - 2022—2024 — [Knowledge and Data](https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/110045)
 
-- 2021—2022 — [Intelligent Agents and Automated Reasoning](https://www.rug.nl/ocasys/fwn/vak/show?code=WBCS041-05)
-- 2019—2022 — [Advanced Algorithms and Data Structures](https://www.rug.nl/ocasys/rug//vak/show?code=WBCS009-05)
-- 2020 — [Object-Oriented Programming](https://www.rug.nl/ocasys/fwn/vak/show?code=WBCS028-05)
+- 2021—2022 — [Intelligent Agents and Automated Reasoning](https://ocasys.rug.nl/2021-2022/catalog/course/WBCS041-05)
+- 2019—2022 — [Advanced Algorithms and Data Structures](https://ocasys.rug.nl/2021-2022/catalog/course/WBCS009-05)
+- 2020 — Object-Oriented Programming
+
+
+### Supervised PhD Dissertations
+
+- Lotfian Delouee, M. (2025). Adapting Event Processing in Dynamic IoT Applications, Meeting Evolving Requirements for Quality, Privacy, and Rule Autonomy. University of Groningen. [\[pdf\]](https://doi.org/10.48550/arXiv.2509.20113)
 
 <br />
 
