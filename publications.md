@@ -5,7 +5,7 @@ title: "Publications"
 
 ### 2026
 
-- I. El Ghabi, R. N. Alief, D. Dustegor, G. Henckens, A. Lazovik, V. Degeler, "GNN-Based State Estimation for Urban Wastewater Digital Twins", (2026) ACM Symposium on Applied Computing, Accepted/In Press
+- I. El Ghabi, R. N. Alief, D. Dustegor, G. Henckens, A. Lazovik, V. Degeler (2026) "GNN-Based State Estimation for Urban Wastewater Digital Twins", ACM Symposium on Applied Computing, Accepted/In Press
 
 ### 2025
 
