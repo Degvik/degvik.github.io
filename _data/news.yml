@@ -1,6 +1,17 @@
+
+- {date: '01.12.25',
+   text:
+    'On December 1st, Majid Lotfian Delouee will defend his PhD thesis titled "Adapting Event Processing in Dynamic IoT Applications, Meeting Evolving Requirements for Quality, Privacy, and Rule Autonomy". <a href="https://www.rug.nl/about-ug/latest-news/events/promoties/?hfId=123400">[Announcement link]</a>.'
+}
+
+- {date: '21.12.23',
+   text:
+    'Our DiTEC-WDN dataset is published in Nature''s Scientific Data. The Data Descriptor paper is available at <a href="https://doi.org/10.1038/s41597-025-06026-0">10.1038/s41597-025-06026-0</a>. The dataset can be accessed <a href="https://doi.org/10.57967/hf/6341">on Hugging Face</a>.'
+}
+
 - {date: '12.09.25',
    text:
-    'Starting October 1st Taguhi Mesropyan joins our group as a PhD student. Welcome!'
+    'Starting October 1st, Taguhi Mesropyan joins our group as a PhD student. Welcome!'
 }
 
 - {date: '01.09.25',
@@ -29,6 +40,10 @@
     '"<a href="https://doi.org/10.1145/3672608.3707743">Contrasting Global and Local Representations for Human Activity Recognition using Graph Neural Networks</a>" is now published in the Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing (SAC).'
 }
 
+- {date: '12.09.24',
+   text:
+    'Starting November 11th 2024, Imane El Ghabi joins our group as a PhD student. Welcome!'
+}
 
 - {date: '03.06.24',
    text:
@@ -51,32 +66,32 @@
     'Our consortium of 7 research and industrial partners, has been awarded a grant for the project "Intelligent Wastewater Treatment: Distributed Digital Twin for Clean Water (DDTclean)". One PhD position for the Informatics Institute is funded by this project. Read the news on <a href="https://www.nwo.nl/en/news/four-sino-dutch-research-projects-on-green-water-processes-awarded">the NWO''s website</a>.'
   }
 
-- {date: '15.10.22',
-   text:
-    'Selected recent publications:
-    <br><br>
-    Yousefi, M.H.N., Degeler, V., Lazovik, A. (2023). Empowering Machine Learning Development with Service-Oriented Computing Principles. In: Service-Oriented Computing. SummerSOC 2023. Communications in Computer and Information Science, vol 1847. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-45728-9_2">doi:10.1007/978-3-031-45728-9_2</a> 
-    <br>
-    M. Lotfian Delouee, B. Koldehofe, and V. Degeler. 2023. AQuA-CEP: Adaptive Quality-Aware Complex Event Processing in the Internet of Things. In Proceedings of the 17th ACM International Conference on Distributed and Event-based Systems (DEBS). Association for Computing Machinery, New York, NY, USA, 13–24. <a href="https://doi.org/10.1145/3583678.3596884">doi: 10.1145/3583678.3596884</a>
-    '
-}
+# - {date: '15.10.22',
+#    text:
+#     'Selected recent publications:
+#     <br><br>
+#     Yousefi, M.H.N., Degeler, V., Lazovik, A. (2023). Empowering Machine Learning Development with Service-Oriented Computing Principles. In: Service-Oriented Computing. SummerSOC 2023. Communications in Computer and Information Science, vol 1847. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-45728-9_2">doi:10.1007/978-3-031-45728-9_2</a> 
+#     <br>
+#     M. Lotfian Delouee, B. Koldehofe, and V. Degeler. 2023. AQuA-CEP: Adaptive Quality-Aware Complex Event Processing in the Internet of Things. In Proceedings of the 17th ACM International Conference on Distributed and Event-based Systems (DEBS). Association for Computing Machinery, New York, NY, USA, 13–24. <a href="https://doi.org/10.1145/3583678.3596884">doi: 10.1145/3583678.3596884</a>
+#     '
+# }
 
 
-- {date: '1.11.22',
-   text:
-    'Here are our two recent publications to check out:
-    <br><br>
-    R. Riesebos, V. Degeler and A. Tello, "Smartphone-Based Real-Time Indoor Positioning Using BLE Beacons," 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE), 2022, pp. 1281-1288, <a href="https://doi.org/10.1109/CASE49997.2022.9926639">doi: 10.1109/CASE49997.2022.9926639</a> <a href="http://vdegeler.com/files/22indoorloc.pdf">[pdf]</a>
-    <br>
-    Lotfian Delouee, M., Koldehofe, B., & Degeler, V. (Accepted/In press). Towards adaptive quality-aware Complex Event Processing in the Internet of Things. In The 18th International Conference on Mobility, Sensing and Networking (MSN 2022) IEEE. <a href="http://vdegeler.com/files/22msn.pdf">[pdf]</a>
-    '
-}
+# - {date: '1.11.22',
+#    text:
+#     'Here are our two recent publications to check out:
+#     <br><br>
+#     R. Riesebos, V. Degeler and A. Tello, "Smartphone-Based Real-Time Indoor Positioning Using BLE Beacons," 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE), 2022, pp. 1281-1288, <a href="https://doi.org/10.1109/CASE49997.2022.9926639">doi: 10.1109/CASE49997.2022.9926639</a> <a href="http://vdegeler.com/files/22indoorloc.pdf">[pdf]</a>
+#     <br>
+#     Lotfian Delouee, M., Koldehofe, B., & Degeler, V. (Accepted/In press). Towards adaptive quality-aware Complex Event Processing in the Internet of Things. In The 18th International Conference on Mobility, Sensing and Networking (MSN 2022) IEEE. <a href="http://vdegeler.com/files/22msn.pdf">[pdf]</a>
+#     '
+# }
 
-- {date: '1.07.22',
-   text:
-    'Since July 1st I am working as an Assistant Professor at the <a href="https://www.uva.nl/">University of Amsterdam</a>. I am a member of the <a href="https://indelab.org/">Intelligent Data Engineering Lab</a>, <a href="https://cci-research.nl/">Complex Cyber Infrastructures</a> group and the <a href="https://dsc.uva.nl/">Data Science Centre</a>.
-    '
-}
+# - {date: '1.07.22',
+#    text:
+#     'Since July 1st I am working as an Assistant Professor at the <a href="https://www.uva.nl/">University of Amsterdam</a>. I am a member of the <a href="https://indelab.org/">Intelligent Data Engineering Lab</a>, <a href="https://cci-research.nl/">Complex Cyber Infrastructures</a> group and the <a href="https://dsc.uva.nl/">Data Science Centre</a>.
+#     '
+# }
 
 # - {date: '7.04.22', 
 #     text:  
