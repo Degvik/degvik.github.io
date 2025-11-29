@@ -24,7 +24,7 @@ From a practical perspective, the students develop their own digital twin of a s
 
 ### Supervised PhD Dissertations
 
-- Lotfian Delouee, M. (2025). Adapting Event Processing in Dynamic IoT Applications, Meeting Evolving Requirements for Quality, Privacy, and Rule Autonomy. University of Groningen. [\[pdf\]](https://doi.org/10.48550/arXiv.2509.20113); [\[Publication link\]](https://hdl.handle.net/11370/81dda9cf-6d03-4c93-af4c-3d1e90c4c68a)
+- Lotfian Delouee, M. (2025). Adapting Event Processing in Dynamic IoT Applications, Meeting Evolving Requirements for Quality, Privacy, and Rule Autonomy. University of Groningen. [\[pdf\]](https://vdegeler.com/files/25PhDThesis_Majid.pdf); [\[Publication link\]](https://hdl.handle.net/11370/81dda9cf-6d03-4c93-af4c-3d1e90c4c68a)
 
 <br />
 
