@@ -1,7 +1,11 @@
+- {date: '03.02.26',
+   text:
+    'On February 3rd, Andres Tello defended his PhD thesis titled "Graph Representation Learning in Smart Environments: Sensor Embeddings with Graph Neural Networks". <a href="https://research.rug.nl/en/publications/graph-representation-learning-in-smart-environments-sensor-embedd/">[Thesis link]</a>.'
+}
 
 - {date: '01.12.25',
    text:
-    'On December 1st, Majid Lotfian Delouee will defend his PhD thesis titled "Adapting Event Processing in Dynamic IoT Applications, Meeting Evolving Requirements for Quality, Privacy, and Rule Autonomy". <a href="https://www.rug.nl/about-ug/latest-news/events/promoties/?hfId=123400">[Announcement link]</a>.'
+    'On December 1st, Majid Lotfian Delouee defended his PhD thesis titled "Adapting Event Processing in Dynamic IoT Applications, Meeting Evolving Requirements for Quality, Privacy, and Rule Autonomy". <a href="https://www.rug.nl/about-ug/latest-news/events/promoties/?hfId=123400">[Announcement link]</a>.'
 }
 
 - {date: '21.12.23',

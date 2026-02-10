@@ -5,7 +5,8 @@ title: "Publications"
 
 ### 2026
 
-- I. El Ghabi, R. N. Alief, D. Dustegor, G. Henckens, A. Lazovik, V. Degeler (2026) "GNN-Based State Estimation for Urban Wastewater Digital Twins", ACM Symposium on Applied Computing, Accepted/In Press
+- Melnikov, O., Dorofieiev, Y., Shakhnovskiy, Y., Truong, H., & Degeler, V. (2026). A Multivariate Statistical Framework for Detection, Classification and Pre-localization of Anomalies in Water Distribution Networks. Expert Systems with Applications. doi: [10.1016/j.eswa.2026.131450](https://doi.org/10.1016/j.eswa.2026.131450).
+- I. El Ghabi, R. N. Alief, D. Dustegor, G. Henckens, A. Lazovik, V. Degeler (2026) "GNN-Based State Estimation for Urban Wastewater Digital Twins", ACM Symposium on Applied Computing (ACM SAC), Accepted/In Press. [\[pdf\]](https://vdegeler.com/files/26_SAC_DDTClean.pdf)
 
 ### 2025
 
