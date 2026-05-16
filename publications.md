@@ -5,6 +5,7 @@ title: "Publications"
 
 ### 2026
 
+- E. Karabulut, D. Daza, P. Groth, M.C. Schut, V. Degeler, (2026) Tabular Foundation Models Can Learn Association Rules, arxiv preprint: [10.48550/arXiv.2602.14622](https://doi.org/10.48550/arXiv.2602.14622).
 - D. Romanov, H. Cheng, V. Degeler, (2026) Digital Twins of Smart Buildings:
 Technical Solutions and Challenges. IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops), Accepted/In press. [\[pdf\]](https://vdegeler.com/files/26Digita.pdf)
 - Melnikov, O., Dorofieiev, Y., Shakhnovskiy, Y., Truong, H., & Degeler, V. (2026). A Multivariate Statistical Framework for Detection, Classification and Pre-localization of Anomalies in Water Distribution Networks. Expert Systems with Applications. 2026, 131450. doi: [10.1016/j.eswa.2026.131450](https://doi.org/10.1016/j.eswa.2026.131450).
